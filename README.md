@@ -65,7 +65,7 @@ Mobile responsiveness
 
 User interactions
 
-(Link to the demo video can be added here once available.)
+(Link to demo video - https://youtu.be/H6snUUwWELM?feature=shared )
 
 🌐 Deployment
 The project can be easily hosted using platforms like GitHub Pages, Netlify, or self-hosted through cloud services like:
